@@ -1,0 +1,17 @@
+{
+  "/_not-found": "/_not-found",
+  "/page": "/",
+  "/clients/page": "/clients",
+  "/invoices/page": "/invoices",
+  "/products/page": "/products",
+  "/settings/page": "/settings",
+  "/quotes/page": "/quotes",
+  "/clients/[id]/page": "/clients/[id]",
+  "/clients/new/page": "/clients/new",
+  "/dashboard/page": "/dashboard",
+  "/products/new/page": "/products/new",
+  "/products/[id]/page": "/products/[id]",
+  "/clients/[id]/edit/page": "/clients/[id]/edit",
+  "/products/[id]/edit/page": "/products/[id]/edit",
+  "/(auth)/login/page": "/login"
+}

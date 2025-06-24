@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    }
+  ],
+  "env": {
+    "NEXT_PUBLIC_SUPABASE_URL": "https://lcrsfvfcyafpnjlfyhto.supabase.co",
+    "NEXT_PUBLIC_SUPABASE_ANON_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImxjcnNmdmZjeWFmcG5qbGZ5aHRvIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTAyNzc4NzEsImV4cCI6MjA2NTg1Mzg3MX0.MivZD9SImprYVJG3zQwv-O5-4ODWJS2FKI4kvOgejoM"
+  }
+}
